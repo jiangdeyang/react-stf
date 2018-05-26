@@ -1,2 +1,2 @@
 # react-stf
-stf of react
+create stf component use react
